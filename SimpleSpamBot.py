@@ -2,7 +2,7 @@
 
 ############################################
 # author: Krystian C.                      #
-# 21.10.2017                               #
+# 22.10.2017                               #
 # SimpleSpamBot is made only for education #
 # Made by 13 year old teenager             #
 ############################################
